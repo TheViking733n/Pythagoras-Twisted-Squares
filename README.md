@@ -2,6 +2,10 @@
 Small program to generate Pythagoras Twisted Squares.
 
 This idea came into my mind while I was watching [this video](https://youtu.be/Y5wiWCR9Axc?t=2124) by Mathologer.
+![yt](https://user-images.githubusercontent.com/69471106/233801926-a1d3e3e8-f669-482e-b3ab-d1ecef9d58cd.jpg)
+
+
+
 
 # Requirements
 * Python 3.6+
