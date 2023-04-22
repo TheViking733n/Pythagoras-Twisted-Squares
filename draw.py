@@ -33,6 +33,6 @@ def square_area():
 while square_area() > 1:
     draw_square()
 
-turtle.hideturtle()
 
+turtle.hideturtle()
 turtle.mainloop()
