@@ -1,6 +1,8 @@
 # Pythagoras Twisted Squares
 Small program to generate Pythagoras Twisted Squares.
 
+This idea came into my mind while I was watching [this video](https://youtu.be/Y5wiWCR9Axc?t=2124) by Mathologer.
+
 # Requirements
 * Python 3.6+
 * turtle
